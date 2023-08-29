@@ -1,0 +1,1 @@
+INSERT INTO `categoria_productos` (`id`, `nombre`) VALUES (NULL, 'Vestidos'), (NULL, 'Camisetas'), (NULL, 'Chaquetas'), (NULL, 'Sudaderas'), (NULL, 'Pantalones'), (NULL, 'Faldas'), (NULL, 'Ropas de baño'), (NULL, 'Zapatos'), (NULL, 'Accesorios');
